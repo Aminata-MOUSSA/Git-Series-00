@@ -15,3 +15,6 @@ I have already used Python and R for several academic projects. I also used Late
 ## My local image
 ![My image](images/IMG_2727.jpeg)
 
+## What I learned
+In this assignment, I learned the basic concepts of VSCode, Git and GitHub and how they can be used to manage a project. I learned how to create and use a branch, make commits and push my changes to a remote repository using GitHub Desktop. I also learned how to modify a file and add both online and local images using Markdown. I became familiar with the main Git concepts, such as repositories, branches, commits and pushes. This assignment helped me better understand how Git tracks changes and how GitHub can be used to organize, synchronize and manage a project. 
+I completed this assignment in approximately 3 hours. 
