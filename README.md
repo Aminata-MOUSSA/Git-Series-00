@@ -10,7 +10,8 @@ I am looking forward to learning more about Git and Github.
 ![sunset](https://catamayotte.com/wp-content/uploads/2018/07/catamaran-mayotte-coucher-de-soleil-galerie01.jpg)
 
 ## My motivation 
-I  started using Python and R during the first year of my Master's degree in Health Sciences and Digital Technology. Through various academic projects, I became familiar with both languages and their applications in healthcare. I am now learning a new workflow by using Python in VS Code with Git and Github. Git allows me to keep track of my changes, while Github helps me store, synchronize and share my projects. I find this approach more structured and efficient, and it helps me develop technical independence that I need in my future career. 
+I have already used Python and R for several academic projects. I also used LateX to write a project report, which introduced me to a different way of creating and organizing documents, other than Word. Using Git and GitHub with Python reminds me of some aspects of working with LateX, especially the structured approach to managing files, tracking changes and adding local images. I am curious to learn another way of working on and managing projects beyond LateX. Learning Git and GitHub is therefore an opportunity for me to broaden my technical knowledge and develop new skills. 
 
 ## My local image
 ![My image](images/IMG_2727.jpeg)
+
