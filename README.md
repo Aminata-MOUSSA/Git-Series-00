@@ -7,7 +7,7 @@ I am currently a beginner with Git and Github and I am learning how to use repos
 I am looking forward to learning more about Git and Github. 
 
 ## My favorite image 
-![sunset](https://catamayotte.com/wp-content/uploads/2018/07/catamaran-mayotte-coucher-de-soleil-galerie01.jpg)
+![sunset](https://www.normandie-tourisme.fr/app/uploads/2022/06/Jettee_de_Luc-sur-Mer_au_coucher_du_soleil_-_lucienvatynan_-_stock.adobe_.com-stock.adobe_.com-1600px.jpg)
 
 ## My motivation 
 I have already used Python and R for several academic projects. I also used LateX to write a project report, which introduced me to a different way of creating and organizing documents, other than Word. Using Git and GitHub with Python reminds me of some aspects of working with LateX, especially the structured approach to managing files, tracking changes and adding local images. I am curious to learn another way of working on and managing projects beyond LateX. Learning Git and GitHub is therefore an opportunity for me to broaden my technical knowledge and develop new skills. 
